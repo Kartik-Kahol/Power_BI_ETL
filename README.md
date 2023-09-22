@@ -18,6 +18,13 @@ The objective of the report is to analyse and present comprehensive insights int
 9.	Analyse Sales by Customer and Compare with Previous Year: Analyze sales data by customer, highlighting the performance of individual customers and comparing it to the previous year.
 10.	Create Slicers for Date, City, Product, and Channel: Enable users to interact with the data by providing slicers for selecting specific dates, cities, products, and channels, allowing for dynamic filtering and personalized analysis.
 
+Conclusion for the year 2019:
+•	Sales decreased by more than 10%
+•	There is a drop in sales of all the top 7 Products
+•	4 Customers are leading to a drop in sales
+•	The profit margin in the Export channel is higher
+
+
 Below is the PDF of final dashboard created in Power BI [Sales Dashboard.pdf](https://github.com/Kartik-Kahol/Power_BI_ETL/files/12698489/Sales.Dashboard.pdf)
 ![image](https://github.com/Kartik-Kahol/Power_BI_ETL/assets/145748182/e868a9a4-6e0c-4f3f-a608-06a7725afa23)
 
